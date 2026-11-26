@@ -4,6 +4,8 @@
 
 **在线访问**: https://xiaoxielnino.github.io/trending/
 
+> **首次部署说明**: 如果网站尚未上线，请在仓库 Settings → Pages → Build and deployment → Source 中选择 "GitHub Actions"，然后手动触发 workflow 或等待下次 push。
+
 ## 功能
 
 - 展示 GitHub Trending 今日、本周、本月热门仓库
